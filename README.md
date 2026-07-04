@@ -27,75 +27,38 @@ deployment, and practical business impact.
 
 # 🚀 Technical Skills
 
-### Programming
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
+</p>
 
--   Python
--   SQL
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-4CAF50?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2196F3?style=for-the-badge)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-FF9800?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-9C27B0?style=for-the-badge)
+![Cross Validation](https://img.shields.io/badge/Cross_Validation-009688?style=for-the-badge)
 
-### Data Analytics
+![CNN](https://img.shields.io/badge/CNN-E91E63?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-3F51B5?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-00BCD4?style=for-the-badge)
+![GRU](https://img.shields.io/badge/GRU-795548?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-673AB7?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-607D8B?style=for-the-badge)
 
--   Pandas
--   NumPy
--   SciPy
--   Matplotlib
--   Plotly
--   Power BI
--   Excel
-
-### Machine Learning
-
--   Scikit-learn
--   XGBoost
--   Exploratory Data Analysis
--   Feature Engineering
--   Hyperparameter Tuning
--   Model Evaluation
--   Cross Validation
-
-### Deep Learning
-
--   PyTorch
--   CNN
--   RNN
--   LSTM
--   GRU
--   Transformers
--   Transfer Learning
--   Attention Mechanisms
--   Computer Vision
--   Spatial Data Science
-
-### Generative AI
-
--   OpenAI API
--   LangChain
--   LangGraph
--   RAG
--   AI Agents
--   Vector Databases
--   ChromaDB
--   Prompt Engineering
--   Function Calling
--   Tool Calling
--   Structured Output
--   LangSmith
--   RAG Evaluation
-
-### Backend & Deployment
-
--   FastAPI
--   Streamlit
--   REST APIs
--   Docker
--   Git
--   GitHub
--   DVC
-
-### Databases
-
--   PostgreSQL
--   SQLite
--   ChromaDB
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Generative_AI-1E88E5?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-8E24AA?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-43A047?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-F4511E?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-212121?style=for-the-badge)
 
 ------------------------------------------------------------------------
 
